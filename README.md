@@ -1,4 +1,4 @@
-Visit **[etaic.github.io](https://etaic.github.io)** 🚀
+Visit **[etaic.github.io/ETAICCC.github.io](https://etaic.github.io/ETAICCC.github.io)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
