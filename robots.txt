@@ -1,1 +1,1 @@
-Sitemap: https://etaic.github.io/sitemap.xml
+Sitemap: https://etaic.github.io/ETAICCC.github.io/sitemap.xml
